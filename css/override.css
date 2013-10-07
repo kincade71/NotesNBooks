@@ -1,0 +1,17 @@
+textarea {
+	width: 100%;
+    resize: none;
+}
+/* .page {
+background-image:url('../img/kindajean.png');
+background-repeat:repeat;
+} */
+.hidden {
+	display: none;
+}
+form {
+	width: 45%;
+}
+.textarea-width {
+	width: 97%
+}
